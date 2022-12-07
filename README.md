@@ -27,7 +27,7 @@ This repository contains my projects for [Udacity's Business Analytics](https://
 
 > In this project, I queried a digital music store database which holds information regarding the store’s media, employees, and customers. I used the database to help the store gain an understanding of the types of music that are purchased, where customers live, and how the company might optimize their business practices.
 
-- [Link to Project]()
+- [Link to Project](https://github.com/MuneraAlRajhi/Business-Analytics-Nanodegree/tree/main/Project%203%20-%20Query%20a%20Digital%20Music%20Store%20Database)
 - [Dataset]()
 
 ## Project 4: Data Visualization
