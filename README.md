@@ -34,7 +34,7 @@ This repository contains my projects for [Udacity's Business Analytics](https://
 
 > In this project, I built interactive dashboards with Tableau and use them to discover and communicate insights from data. I used a dataset of flight delays in the US to visualize the quality of airlines and airports, find the best times to fly, and more.
 
-- [Link to Project]()
+- [Link to Project](https://github.com/MuneraAlRajhi/Business-Analytics-Nanodegree/tree/main/Project%204%20-%20Build%20Data%20Dashboards)
 - [Dataset]()
 
 ---
